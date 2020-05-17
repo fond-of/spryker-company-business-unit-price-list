@@ -19,8 +19,6 @@ class CompanyBusinessUnitPriceListBusinessFactory extends AbstractBusinessFactor
     }
 
     /**
-     * @throws
-     *
      * @return \FondOfSpryker\Zed\CompanyBusinessUnitPriceList\Dependency\Facade\CompanyBusinessUnitPriceListToPriceListFacadeInterface
      */
     protected function getPriceListFacade(): CompanyBusinessUnitPriceListToPriceListFacadeInterface
